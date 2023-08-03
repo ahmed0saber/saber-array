@@ -1,0 +1,25 @@
+{
+  "name": "saber-array",
+  "version": "1.0.0",
+  "description": "saber-array is an open-source JavaScript library that makes life of arrays easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed0saber/saber-array.git"
+  },
+  "keywords": [
+    "saber-array",
+    "JavaScript",
+    "arrays",
+    "ahmed0saber"
+  ],
+  "author": "Ahmed Saber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed0saber/saber-array/issues"
+  },
+  "homepage": "https://github.com/ahmed0saber/saber-array#readme"
+}
