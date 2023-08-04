@@ -1,6 +1,6 @@
 {
   "name": "saber-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "saber-array is an open-source JavaScript library that makes life of arrays easier",
   "main": "index.js",
   "scripts": {
