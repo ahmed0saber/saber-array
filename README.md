@@ -18,7 +18,7 @@ const { getByProp, updateByProp, removeByProp } = require('saber-array')
 
 - `getByProp()`
 
-A function that return an object (or more) with specific value for a certain property in an array.
+A function that returns an object (or more) with specific value for a certain property in an array.
 
 In the following example, we are using `getByProp()` to get the object with `id` equals `"123"` in an array called `arr`.
 
